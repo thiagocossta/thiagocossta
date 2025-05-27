@@ -1,5 +1,5 @@
 # 🧑‍🚀 About Me:
-Olá! Sou o Thiago, desenvolvedor focado em front-end com sólida experiência em React e TypeScript 🚀<br><br> Prezo por interfaces bem construídas, código limpo e repositórios organizados 💻<br><br> Tenho vivência em projetos com foco em performance, integração com APIs e boas práticas de testes e deploy ☁️<br><br> Gosto de colaborar e trocar ideias com a comunidade dev 🤝
+Olá! Sou o Thiago, desenvolvedor focado em front-end com sólida experiência em React e TypeScript 🚀<br> Prezo por interfaces bem construídas, código limpo e repositórios organizados 💻<br> Tenho vivência em projetos com foco em performance, integração com APIs e boas práticas de testes e deploy ☁️<br> Gosto de colaborar e trocar ideias com a comunidade dev 🤝
 
 
 ## 🌐 Socials:
